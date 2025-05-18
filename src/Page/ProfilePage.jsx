@@ -24,6 +24,12 @@ export const ProfilePage = () => {
           <p className="capitalize  font-medium text-gray-600">{email}</p>
         </div>
       </div>
+      <p className="px-8 text-gray-600">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias expedita
+        maiores corrupti molestias explicabo, eos, corporis sunt minima
+        reprehenderit quaerat fugit at! Dolore fugit iste expedita, eos impedit
+        modi consequuntur.
+      </p>
     </div>
   );
 };
